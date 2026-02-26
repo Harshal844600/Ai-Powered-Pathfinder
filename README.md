@@ -190,7 +190,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 <div align="center">
-  <p>Made with ❤️ by <a href="https://github.com/Harshal844600">Harshal844600</a></p>
+  <p>Made with ❤️ by <a href="https://github.com/Harshal844600">Harshal vidhate</a></p>
   <p>
     <a href="https://www.buymeacoffee.com/harshal844600">
       <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee">
