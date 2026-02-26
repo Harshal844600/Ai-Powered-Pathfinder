@@ -1,0 +1,27 @@
+﻿
+> vite_react_shadcn_ts@0.0.0 dev
+> vite
+
+
+  [32m[1mVITE[22m v5.4.19[39m  [2mready in [0m[1m360[22m[2m[0m ms[22m
+
+  [32mΓ₧£[39m  [1mLocal[22m:   [36mhttp://localhost:[1m8080[22m/[39m
+[2m[32m  Γ₧£[39m[22m[2m  press [22m[1mh + enter[22m[2m to show help[22m
+node.exe : Browserslist: browsers 
+data (caniuse-lite) is 8 months old. 
+Please run:
+At C:\Program Files\nodejs\npm.ps1:29 
+char:3
++   & $NODE_EXE $NPM_CLI_JS $args
++   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpec 
+   ified: (Browserslist: b...ld. Ple  
+  ase run::String) [], RemoteExcept   
+ ion
+    + FullyQualifiedErrorId : NativeC 
+   ommandError
+ 
+  npx update-browserslist-db@latest
+  Why you should do it regularly: http
+s://github.com/browserslist/update-db#
+readme

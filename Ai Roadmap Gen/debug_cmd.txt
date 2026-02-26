@@ -1,0 +1,15 @@
+
+> vite_react_shadcn_ts@0.0.0 dev
+> vite
+
+
+  [32m[1mVITE[22m v5.4.19[39m  [2mready in [0m[1m348[22m[2m[0m ms[22m
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://localhost:[1m8080[22m/[39m
+[2m[32m  ➜[39m[22m[2m  press [22m[1mh + enter[22m[2m to show help[22m
+Browserslist: browsers data (caniuse-lite) is 8 months old. Please run:
+  npx update-browserslist-db@latest
+  Why you should do it regularly: https://github.com/browserslist/update-db#readme
+[2m8:42:49 pm[22m [36m[1m[vite][22m[39m [32m.env changed, restarting server...[39m
+[2m8:42:49 pm[22m [36m[1m[vite][22m[39m server restarted.
+Terminate batch job (Y/N)? Terminate batch job (Y/N)? 

@@ -1,0 +1,4 @@
+﻿--- BACKEND BOOTING UP ---
+Time: 2026-02-22T19:09:40.868Z
+[dotenv@17.3.1] injecting env (2) from .env -- tip: ΓÜÖ∩╕Å  load multiple .env files with { path: ['.env.local', '.env'] }
+Server running at http://localhost:5001
